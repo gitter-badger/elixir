@@ -1,5 +1,7 @@
 ![Elixir](https://github.com/elixir-lang/elixir-lang.github.com/raw/master/images/logo/logo.png)
 =========
+
+[![Join the chat at https://gitter.im/pprzetacznik/elixir](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pprzetacznik/elixir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://secure.travis-ci.org/elixir-lang/elixir.svg?branch=master "Build Status")](http://travis-ci.org/elixir-lang/elixir)
 
 For more about Elixir, installation and documentation, [check Elixir's website](http://elixir-lang.org/).
